@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Formulario_DtosPy", "Formulario_DtosPy\Formulario_DtosPy.pyproj", "{BD56FE68-31F7-4442-8821-7CEF561B3237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD56FE68-31F7-4442-8821-7CEF561B3237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD56FE68-31F7-4442-8821-7CEF561B3237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F68FB09-B845-488E-8B6D-B44C6878109A}
+	EndGlobalSection
+EndGlobal
